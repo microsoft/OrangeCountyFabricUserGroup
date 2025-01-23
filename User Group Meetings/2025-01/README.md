@@ -16,6 +16,10 @@ We are excited to feature expert speakers who will each cover a key aspect of th
 
 - **Networking Opportunities:** Connect with like-minded professionals, share experiences, and discuss best practices for implementing data science and automation in Microsoft Fabric.
 
+## Speaker:
+**Ravi Bodla**
+Ravi Bodla is a Principal in RSM's Digital and Data Services practice and RSM's leader for Microsoft Data Services. With over 20 years of experience, he helps organizations develop technology and data-driven solutions to solve business problems, enable better decision-making, and drive meaningful business transformation. His areas of expertise include Data Analytics, Data Strategy and Governance, Cloud Strategy, Application Modernization, Cloud Native Development, and People Analytics.
+
 Don’t miss this opportunity to unlock the full potential of Data Science and Copilot in Microsoft Fabric to transform your organization’s data-driven strategies!
 
 [Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/305599947/?eventOrigin=group_events_list)
