@@ -32,4 +32,4 @@ Looking forward to seeing how this community evolves and hearing your contributi
 
 #MicrosoftFabric #DataCommunity #Innovation #DataDriven #BusinessTransformation
 
-[Event Details]([https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/303945922/?eventOrigin=group_events_list)
+[Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/303945922/?eventOrigin=group_events_list)
