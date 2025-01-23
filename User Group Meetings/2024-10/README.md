@@ -1,5 +1,24 @@
-# OrangeCountyFabricUserGroup
+# Microsoft Fabric Community Kick off
 
-Welcome to the Orange County Microsoft Fabric Meetup Group! This group is designed for professionals, enthusiasts, and beginners who are interested in all things related to Microsoft Fabric. Whether you are looking to improve your skills, share tips and tricks, or connect with others in the industry, this is the place for you. Join us for networking events, educational workshops, and hands-on learning opportunities. Let's explore the world of Microsoft Fabric together and expand our knowledge and expertise in this innovative technology.
+Details
+Physical Location: 3 Park Plaza, Irvine, CA. Floor 16.
+Meeting ID: 265 649 096 118 Passcode: ii7Fe3Uj
 
-[Join our User Group!](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/)
+We’re bringing together data developers, analysts, and business leaders to create a vibrant space where we can explore the progressive usage of Microsoft Fabric. This is a unique forum for:
+🌟 Providing feedback on new feature releases
+💡 Sharing creative ideas and use cases
+❓ Asking questions and getting consultative support
+🤝 Collaborating on real-world business data challenges
+
+Agenda:
+Welcome & Introductions
+Overview of Microsoft Fabric
+Fabric Capacities & PBI P-F SKU Path
+Training Opportunities, Future Sessions
+Q & A
+
+If you're passionate about data and eager to engage in thoughtful discussions around innovative solutions, join us! Let’s build a future of impactful data-driven decisions together.
+Looking forward to seeing how this community evolves and hearing your contributions!
+#MicrosoftFabric #DataCommunity #Innovation #DataDriven #BusinessTransformation
+
+[Event Details]([https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/303945922/?eventOrigin=group_events_list)
