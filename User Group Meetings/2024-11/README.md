@@ -19,4 +19,4 @@ Join us for an exciting community event where we dive into the transformative ca
 Don't miss this opportunity to unlock the full potential of your data with Data Factory. Whether you're a data engineer, analyst, or enthusiast, this event will provide valuable insights and practical knowledge to elevate your data strategy.
 
 
-[Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/303945922/?eventOrigin=group_events_list)
+[Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/304462943/?eventOrigin=group_events_list)
