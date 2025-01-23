@@ -1,5 +1,21 @@
-# OrangeCountyFabricUserGroup
+# Session #4 - Data Science & Copilot in Microsoft Fabric
 
-Welcome to the Orange County Microsoft Fabric Meetup Group! This group is designed for professionals, enthusiasts, and beginners who are interested in all things related to Microsoft Fabric. Whether you are looking to improve your skills, share tips and tricks, or connect with others in the industry, this is the place for you. Join us for networking events, educational workshops, and hands-on learning opportunities. Let's explore the world of Microsoft Fabric together and expand our knowledge and expertise in this innovative technology.
+## Details:
+Join us for an exciting and informative meetup as we dive into the world of Data Science and Copilot in Microsoft Fabric! In this session, we will explore how these powerful tools are transforming data management, analytics, and AI-driven workflows.
+We are excited to feature expert speakers who will each cover a key aspect of these technologies, offering insights into real-world use cases and the future of data science in the cloud.
 
-[Join our User Group!](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/)
+## Key Highlights:
+
+- **Data Science in Microsoft Fabric:** Learn about the architecture and components that power data science within Microsoft Fabric, and how it seamlessly integrates with your data infrastructure for advanced analytics and machine learning.
+
+- **Copilot in Microsoft Fabric:** Discover how Copilot assists in automating insights and actions based on your data, boosting productivity and helping you make faster, more informed decisions.
+
+- **Real-World Use Case:** See how Microsoft Fabric's Data Science tools and Copilot are applied in practice, featuring a partner-led discussion showcasing real-world applications and success stories.
+
+- **Interactive Q&A:** Get your questions answered by industry experts, and learn valuable insights from your peers about using Data Science and Copilot effectively.
+
+- **Networking Opportunities:** Connect with like-minded professionals, share experiences, and discuss best practices for implementing data science and automation in Microsoft Fabric.
+
+Don’t miss this opportunity to unlock the full potential of Data Science and Copilot in Microsoft Fabric to transform your organization’s data-driven strategies!
+
+[Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/305599947/?eventOrigin=group_events_list)
