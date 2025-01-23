@@ -1,5 +1,26 @@
-# OrangeCountyFabricUserGroup
+# Session#3 - Microsoft Fabric Real-Time Intelligence
 
-Welcome to the Orange County Microsoft Fabric Meetup Group! This group is designed for professionals, enthusiasts, and beginners who are interested in all things related to Microsoft Fabric. Whether you are looking to improve your skills, share tips and tricks, or connect with others in the industry, this is the place for you. Join us for networking events, educational workshops, and hands-on learning opportunities. Let's explore the world of Microsoft Fabric together and expand our knowledge and expertise in this innovative technology.
+## Details
+Join us for an exciting community event where we delve into the cutting-edge capabilities of Microsoft Fabric Real-Time Intelligence. This session is designed to empower you with the knowledge to harness the power of streaming data, process real-time events, and build dynamic, event-driven solutions.
 
-[Join our User Group!](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/)
+## Key Highlights:
+
+- **Introduction to Real-Time Intelligence:** Gain insights into the architecture and components of Microsoft Fabric’s Real-Time Intelligence, including the Real-Time Hub, Eventstreams, Eventhouse, and Activator.
+
+- **Real-Time Hub:** Learn how to catalog and manage streaming data efficiently within your organization.
+
+- **Eventstreams:** Discover how to capture, transform, and route high volumes of real-time events seamlessly.
+
+- **Eventhouse:** Explore the capabilities of time-based analytics and processing for structured and unstructured streaming data.
+
+- **Activator:** Understand how to set up alerts and trigger automated actions based on real-time data patterns.
+
+- **Real-World Use Case:** Witness how Microsoft Fabric Real-Time Intelligence is applied in practice through a partner-led discussion
+
+- **Interactive Q&A:** Get your questions answered by experts and learn from peers in the community.
+
+- **Networking Opportunities:** Connect with like-minded professionals and share best practices on data streaming and analytics.
+
+Don’t miss this opportunity to unlock the full potential of Real-Time Intelligence within Microsoft Fabric
+
+[Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/304976907/?eventOrigin=group_events_list)
