@@ -16,7 +16,11 @@ Join us for an exciting community event where we dive into the transformative ca
 
 - **Real-World Use Cases:** Hear from industry experts and community members about their experiences and success stories using Data Factory in Microsoft Fabric.
 
-Don't miss this opportunity to unlock the full potential of your data with Data Factory. Whether you're a data engineer, analyst, or enthusiast, this event will provide valuable insights and practical knowledge to elevate your data strategy.
+## Speaker
+**Jen Beiser**
 
+Jen Beiser is a passionate and experienced technical leader with a strong customer focus. With over 15 years of experience, my emphasis is on helping customers achieve business goals related to digital transformation, driving high customer satisfaction, and exemplifying a culture of learning, collaboration, and inclusion.
+
+Don't miss this opportunity to unlock the full potential of your data with Data Factory. Whether you're a data engineer, analyst, or enthusiast, this event will provide valuable insights and practical knowledge to elevate your data strategy.
 
 [Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/304462943/?eventOrigin=group_events_list)
