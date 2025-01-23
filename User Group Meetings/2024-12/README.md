@@ -22,9 +22,9 @@ Join us for an exciting community event where we delve into the cutting-edge cap
 - **Networking Opportunities:** Connect with like-minded professionals and share best practices on data streaming and analytics.
 
 ## Speaker
-**Jen Beiser**
+**Mash Syed**
 
-Jen Beiser is a passionate and experienced technical leader with a strong customer focus. With over 15 years of experience, my emphasis is on helping customers achieve business goals related to digital transformation, driving high customer satisfaction, and exemplifying a culture of learning, collaboration, and inclusion.
+Mash is a Principal Technical Specialist for Data & AI at Microsoft, focusing on Azure solutions for retail and CPG customers. He supports clients through demos, workshops, best practices, and expert consultations. With a diverse background in data science, tech, sales, business management, and entrepreneurship, Mash has held roles such as IT Business Analyst, Tableau Developer, Business Intelligence Analyst, Solutions Architect, and Data Scientist over the past decade. Prior to Microsoft he was Lead Data Scientist at Chipotle and Solutions Architect at Slalom Consulting.
 
 Don’t miss this opportunity to unlock the full potential of Real-Time Intelligence within Microsoft Fabric
 
