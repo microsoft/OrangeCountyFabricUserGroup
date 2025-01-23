@@ -12,49 +12,49 @@ Welcome to the Orange County Microsoft Fabric Meetup Group! This group is design
       <td style="text-align: center; vertical-align: top; width: 16.66%;">
         <div style="width: 150px; margin: 0 auto;">
           <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/swetha.jpg" alt="Swetha Mannepalli" style="width: 100%; height: auto;">
-          <p><strong>Swetha Mannepalli</strong></p>
-          <p>Senior Product Marketing Manager - Microsoft</p>
-          <p><a href="https://www.linkedin.com/in/swetha-mannepalli-8064074b">LinkedIn</a></p>
+          <p align="center"><strong>Swetha Mannepalli</strong></p>
+          <p align="center">Senior Product Marketing Manager - Microsoft</p>
+          <p align="center"><a href="https://www.linkedin.com/in/swetha-mannepalli-8064074b">LinkedIn</a></p>
         </div>
       </td>
       <td style="text-align: center; vertical-align: top; width: 16.66%;">
         <div style="width: 150px; margin: 0 auto;">
           <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/mash.jpg" alt="Mash Syed" style="width: 100%; height: auto;">
-          <p><strong>Mash Syed</strong></p>
-          <p>Principal Technical Specialist, Data & AI - Microsoft</p>
-          <p><a href="https://www.linkedin.com/in/mashsyed">LinkedIn</a></p>
+          <p align="center"><strong>Mash Syed</strong></p>
+          <p align="center">Principal Technical Specialist, Data & AI - Microsoft</p>
+          <p align="center"><a href="https://www.linkedin.com/in/mashsyed">LinkedIn</a></p>
         </div>
       </td>
       <td style="text-align: center; vertical-align: top; width: 16.66%;">
         <div style="width: 150px; margin: 0 auto;">
           <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/jen.jpg" alt="Jen Beiser" style="width: 100%; height: auto;">
-          <p><strong>Jen Beiser</strong></p>
-          <p>Principal Cloud Solution Architect, Data & AI - Microsoft</p>
-          <p><a href="https://www.linkedin.com/in/jenbeiser">LinkedIn</a></p>
+          <p align="center"><strong>Jen Beiser</strong></p>
+          <p align="center">Principal Cloud Solution Architect, Data & AI - Microsoft</p>
+          <p align="center"><a href="https://www.linkedin.com/in/jenbeiser">LinkedIn</a></p>
         </div>
       </td>
       <td style="text-align: center; vertical-align: top; width: 16.66%;">
         <div style="width: 150px; margin: 0 auto;">
           <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/chandra.jpg" alt="Chandra Subramanya" style="width: 100%; height: auto;">
-          <p><strong>Chandra Subramanya</strong></p>
-          <p>Senior Cloud Solution Architect, SMC - Microsoft</p>
-          <p><a href="https://www.linkedin.com/in/chandra-subramanya-b724a013">LinkedIn</a></p>
+          <p align="center"><strong>Chandra Subramanya</strong></p>
+          <p align="center">Senior Cloud Solution Architect, SMC - Microsoft</p>
+          <p align="center"><a href="https://www.linkedin.com/in/chandra-subramanya-b724a013">LinkedIn</a></p>
         </div>
       </td>
       <td style="text-align: center; vertical-align: top; width: 16.66%;">
         <div style="width: 150px; margin: 0 auto;">
           <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/narayanan.jpg" alt="Narayanan Srinivasan" style="width: 100%; height: auto;">
-          <p><strong>Narayanan Srinivasan</strong></p>
-          <p>Director, Data & AI - Microsoft</p>
-          <p><a href="https://www.linkedin.com/in/narayanansrinivas">LinkedIn</a></p>
+          <p align="center"><strong>Narayanan Srinivasan</strong></p>
+          <p align="center">Director, Data & AI - Microsoft</p>
+          <p align="center"><a href="https://www.linkedin.com/in/narayanansrinivas">LinkedIn</a></p>
         </div>
       </td>
       <td style="text-align: center; vertical-align: top; width: 16.66%;">
         <div style="width: 150px; margin: 0 auto;">
           <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/anupama.jpg" alt="Anupama Kulapputtil" style="width: 100%; height: auto;">
-          <p><strong>Anupama Kulapputtil</strong></p>
-          <p>Director, Edwards Lifesciences</p>
-          <p><a href="https://www.linkedin.com/in/anupama-kulapputtil-393a6322">LinkedIn</a></p>
+          <p align="center"><strong>Anupama Kulapputtil</strong></p>
+          <p align="center">Director, Edwards Lifesciences</p>
+          <p align="center"><a href="https://www.linkedin.com/in/anupama-kulapputtil-393a6322">LinkedIn</a></p>
         </div>
       </td>
     </tr>
