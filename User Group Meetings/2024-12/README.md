@@ -21,6 +21,11 @@ Join us for an exciting community event where we delve into the cutting-edge cap
 
 - **Networking Opportunities:** Connect with like-minded professionals and share best practices on data streaming and analytics.
 
+## Speaker
+**Jen Beiser**
+
+Jen Beiser is a passionate and experienced technical leader with a strong customer focus. With over 15 years of experience, my emphasis is on helping customers achieve business goals related to digital transformation, driving high customer satisfaction, and exemplifying a culture of learning, collaboration, and inclusion.
+
 Don’t miss this opportunity to unlock the full potential of Real-Time Intelligence within Microsoft Fabric
 
 [Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/304976907/?eventOrigin=group_events_list)
