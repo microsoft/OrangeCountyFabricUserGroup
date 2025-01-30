@@ -24,6 +24,9 @@ Welcome to the Orange County Microsoft Fabric Meetup Group! This group is design
       <td style="text-align: center; width: 20%;">
         <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/narayanan.jpg" alt="Narayanan Srinivasan" style="width: 100%; max-width: 150px; height: auto;">
       </td>
+       <td style="text-align: center; width: 20%;">
+        <img src="https://github.com/microsoft/OrangeCountyFabricUserGroup/blob/main/images/anupama.jpg" alt="Anupama Kulapputtil" style="width: 100%; max-width: 150px; height: auto;">
+      </td>
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: top;">
@@ -50,6 +53,11 @@ Welcome to the Orange County Microsoft Fabric Meetup Group! This group is design
         <p align="center"><strong>Narayanan Srinivasan</strong></p>
         <p align="center">Director, Data & AI - Microsoft</p>
         <p align="center"><a href="https://www.linkedin.com/in/narayanansrinivas">LinkedIn</a></p>
+      </td>
+      <td style="text-align: center; vertical-align: top;">
+        <p align="center"><strong>Anupama Kulapputtil</strong></p>
+        <p align="center">Director, Edwards Lifesciences</p>
+        <p align="center"><a href="https://www.linkedin.com/in/anupama-kulapputtil-393a6322/">LinkedIn</a></p>
       </td>
     </tr>
   </table>
