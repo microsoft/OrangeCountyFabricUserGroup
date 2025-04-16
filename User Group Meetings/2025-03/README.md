@@ -28,4 +28,6 @@ Don't miss this opportunity to network with fellow data enthusiasts and gain val
 30 years experience in Data & Analytics. 10 years experience in Cloud Modernization. Successfully visioned, road mapped, designed, and lead >250 cloud modernization programs. Expert in Microsoft / Amazon / Databricks cloud technology stacks. Successfully defined Data & AI enterprise strategies, to help organizations become data driven, to enable democratized analytics through a data marketplace, and to leverage AI to improve revenue and decrease costs. Lead the development and launch of new GenAI solutions to enhance efficiency, realize new insights, and accelerate data engineering. Achieved 10X revenue growth for cloud services business, and launched multiple successful GenAI products.
 
 Developed a team of >500 cloud practitioners. Enabled customer success across multiple industries; finserve, manufacturing, retail, energy, telecom, logistics, mining, real estate, isv, health, education and public sector.
+
+
 [Event Details](https://www.meetup.com/orange-county-microsoft-fabric-project-meetup-group/events/306656051)
