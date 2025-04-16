@@ -6,19 +6,19 @@
 We are thrilled to announce our upcoming session featuring our new partner, Adastra! This event promises to be both informative and engaging, with a focus on the latest advancements in data platforms and AI. Here’s what you can look forward to:
 
 ## Contrast of Fabric vs Traditional Platforms in the Modern World:
-- **MS Fabric benefits – Before Fabric and with Fabric**
-- **Fabric accelerates Data Driven Goals**
-- **Key Fabric Decisions (Fabric vs Lakehouse vs Data Warehousing)**
-- **Fabric Governance**
+- MS Fabric benefits – Before Fabric and with Fabric
+- Fabric accelerates Data Driven Goals
+- Key Fabric Decisions (Fabric vs Lakehouse vs Data Warehousing)
+- Fabric Governance
 
 ## Use Cases in Retail/CPG Examples:
-- **Grocery retailer – Mergers and Acquisitions story at Heritage Grocers group with Fabric**
-- **Wholesale Distributor – Supply Chain Optimization at Taiga Building Products**
-- **Home Hardware Retailor – How Fabric enabled customer 360 initiative for their organization**
+- Grocery retailer – Mergers and Acquisitions story at Heritage Grocers group with Fabric
+- Wholesale Distributor – Supply Chain Optimization at Taiga Building Products
+- Home Hardware Retailor – How Fabric enabled customer 360 initiative for their organization
 
 ## How Adastra’s AI Accelerator Simplifies Migration to Fabric:
-- **Get insights into Adastra’s AI accelerator, and how it streamlines the migration process to Fabric.**
-- **See how can help your organization transition smoothly and efficiently to a modern data platform.**
+- Get insights into Adastra’s AI accelerator, and how it streamlines the migration process to Fabric.
+- See how can help your organization transition smoothly and efficiently to a modern data platform.
 
 Don't miss this opportunity to network with fellow data enthusiasts and gain valuable knowledge from industry experts. Mark your calendars and join us for an insightful session!
 
